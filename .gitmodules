@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sinaplot"]
+	path = sinaplot
+	url = https://github.com/sidiropoulos/sinaplot
+	shallow = true
+	registered = true
